@@ -1,7 +1,7 @@
 # Jane Street Market Prediction
 
 Kaggle Competition. This project includes exploratory data analysis(notebooks) and prediction scripts.
-### Problem: Buy low, sell high
+### Problem: 130 anonymized features. Predict whether taking each trading opportunities will result in profit for a whole year.
 
 ### Dataset: 12GB of Real world financial markets. 
 - anonymized set of features, feature_{0...129}, representing real stock market data.
@@ -11,3 +11,5 @@ Kaggle Competition. This project includes exploratory data analysis(notebooks) a
 - in addition to anonymized feature values, you are provided with metadata about the features in features.csv.
 - checkout my EDA for more information. (de-anonymized)
 cred: https://www.kaggle.com/c/jane-street-market-prediction/data
+
+### Modules used: numpy, pandas, tensorflow, tqdm, random, datatable, sklearn, gc, seaborn, matplotlib, plotly, defaultdict
