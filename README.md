@@ -9,7 +9,6 @@ Kaggle Competition. This project includes exploratory data analysis(notebooks) a
 - each trade has an associated weight and resp, which together represents a return on the trade.
 - date column is an integer which represents the day of the trade, while ts_id represents a time ordering.
 - in addition to anonymized feature values, you are provided with metadata about the features in features.csv.
-- checkout my EDA for more information. (de-anonymized)
 cred: https://www.kaggle.com/c/jane-street-market-prediction/data
 
 ### Modules used: numpy, pandas, tensorflow, tqdm, random, datatable, sklearn, gc, seaborn, matplotlib, plotly, defaultdict
