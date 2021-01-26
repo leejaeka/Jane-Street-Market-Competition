@@ -1,8 +1,9 @@
 # Jane Street Market Prediction
 
+## Click the links below to see project 
 [Part1 - EDA](https://leejaeka.github.io/jaekangai/python/eda/jane%20street/kaggle/visualization/big%20data/2021/01/23/JaneStreet-Copy1.html) <br>
-[Part2 - Predict]()
-[Part3 - Blog post]()
+[Part2 - Predict](https://leejaeka.github.io/jaekangai/mlp/python/feature%20engineering/imputation/jane%20street/kaggle/visualization/big%20data/random%20forest/2021/01/25/jane-predict.html) <br>
+[Part3 - Blog post](https://jaekangai.medium.com/things-i-learned-in-the-kaggle-competition-as-a-first-timer-ef3bb905cf94)
 
 Kaggle Competition. This project includes exploratory data analysis(notebooks) and prediction scripts.
 ### Problem: 130 anonymized features. Predict whether taking each trading opportunities will result in profit for a whole year.
