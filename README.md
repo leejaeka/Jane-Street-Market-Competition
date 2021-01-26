@@ -1,5 +1,9 @@
 # Jane Street Market Prediction
 
+[Part1 - EDA](https://leejaeka.github.io/jaekangai/python/eda/jane%20street/kaggle/visualization/big%20data/2021/01/23/JaneStreet-Copy1.html) <br>
+[Part2 - Predict]()
+[Part3 - Blog post]()
+
 Kaggle Competition. This project includes exploratory data analysis(notebooks) and prediction scripts.
 ### Problem: 130 anonymized features. Predict whether taking each trading opportunities will result in profit for a whole year.
 
@@ -12,3 +16,10 @@ Kaggle Competition. This project includes exploratory data analysis(notebooks) a
 cred: https://www.kaggle.com/c/jane-street-market-prediction/data
 
 ### Modules used: numpy, pandas, tensorflow, tqdm, random, datatable, sklearn, gc, seaborn, matplotlib, plotly, defaultdict
+
+### INSTRUCTION although I don't recommend you to run this since this is specifically for Jane Street ANONYMIZED FEATURES competition..
+input folder - Put the feature.csv, train.csv from https://www.kaggle.com/c/jane-street-market-prediction and imputed_df.csv from (https://www.kaggle.com/louise2001/janestreetimputeddata). <br>
+src folder - scripts are stored here. Just run python train.py to clean and train and save model to models folder. submit.py is to submit for Kaggle competition. <br>
+model folder - the models are saved here
+output folder - the output cleaned data are saved here
+notebook folder - notebooks used for EDA and feature engineering and training are here.
